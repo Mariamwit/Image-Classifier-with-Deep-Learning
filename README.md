@@ -5,7 +5,7 @@
 
 
 <h2> Project Description</h2>
-In this project, an image classifier is trained to recognize different species of flowers.It implements an image classifier with PyTorch. The project is broken down into multiple steps:Loading and preprocessing the image dataset, training the image classifier on your dataset, and using the trained classifier to predict image content. After building and training a deep neural network on the flower data set, it is converted into an application. The application is a pair of Python scripts that run from the command line. 
+In this project, an image classifier is trained to recognize different species of flowers.It implements an image classifier with PyTorch. The project is broken down into multiple steps:Loading and preprocessing the image dataset, training the image classifier on the dataset, and using the trained classifier to predict image content. After building and training a deep neural network on the flower data set, it is converted into an application. The application is a pair of Python scripts that run from the command line. 
 <br />
 
 
