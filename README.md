@@ -1,6 +1,6 @@
 # Image-Classifier-with-Deep-Learning
 
-<h1>  Image-Classifier-with-Deep-Learning and building the command line application  </h1>
+<h1>  Image-Classifier-with-Deep-Learning and building a command line application  </h1>
 
 
 
