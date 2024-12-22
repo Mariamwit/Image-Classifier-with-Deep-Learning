@@ -1,4 +1,4 @@
-# Image-Classifier-with-Deep-Learning and Building a Command Line Application
+# Image-Classifier-with-Deep-Learning 
 
 <h1>  Image-Classifier-with-Deep-Learning and Building a Command Line Application  </h1>
 
